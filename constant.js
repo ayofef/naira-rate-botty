@@ -1,0 +1,1 @@
+export const ONE_MILLION_NAIRA = 1000000;
